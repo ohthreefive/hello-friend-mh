@@ -1,8 +1,8 @@
 {
-  "name": "hello-friend",
-  "version": "3.0.0",
+  "name": "hello-friend-mh",
+  "version": "3.0.1",
   "main": "index.js",
-  "author": "Radosław Kozieł <@panr> <radoslaw.koziel@gmail.com>",
+  "author": "Martin Hennessy <@ohthreefive> <mmfhennessy@icloud.com>",
   "license": "MIT",
   "scripts": {
     "test": "echo 'Test'"

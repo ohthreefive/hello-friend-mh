@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
+theme = "hello-friend-mh"
 paginate = 5
 
 [params]
@@ -15,8 +15,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Hello Friend MH"
+    subtitle = "A simple theme for Hugo, forked from panr's original"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

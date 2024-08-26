@@ -1,5 +1,9 @@
 # Hello Friend
 
+## Hello Friend MH
+
+I forked panr's theme because it's great!
+
 ## The theme is no longer maintained, but can still be used
 
 Even if the repository is archived you can still use the theme, fork it, download it, expand it, etc. Remember that each Hugo theme is a module that can be modified to match your needs. The theme is fully "open" and it depends only on the internal engines implemented in Hugo.
